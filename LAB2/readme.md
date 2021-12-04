@@ -47,4 +47,4 @@ Kroki wykonania:
 •	Uruchom przeglądarkę chrome
 •	Wejdź na stronę olx.pl
 •	Kliknij „Aplikacje mobilne OLX.pl
-Oczekiwany rezultat – pojawienie się ikonek app mobile 
+Oczekiwany rezultat – pojawienie się ikonek app mobile
