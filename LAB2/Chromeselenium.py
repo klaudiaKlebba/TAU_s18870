@@ -46,7 +46,7 @@ logger.addHandler(ch)
 # driver.close()
 
 #Test 2 - chrome - aolx.pl
-logger.info('Rozpoczynam test na stronie allegro.pl')
+logger.info('Rozpoczynam test na stronie olx.pl')
 
 driver = webdriver.Chrome(executable_path='C:\chromedriver.exe')
 
